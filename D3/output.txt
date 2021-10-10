@@ -1,0 +1,52 @@
+Scheme: https://
+Host: miniyandex.com
+Port: 8081
+Args:
+  Key: a; Value: b
+  Key: c; Value: d
+
+Scheme: https://
+Host: yandex.com
+Args:
+  Key: a; Value: b
+  Key: c; Value: d
+
+Host: pikabu.ru
+Port: 1213
+
+Scheme: http://
+Host: mail112.ru
+Port: 1090
+Args:
+  Key: a; Value: %20%20маамывы213141414ssd
+  Key: ggg; Value: ваыаыва
+
+Host: tsconsulting.com
+Port: 9090909
+
+Scheme: https://
+Host: miniyandex.com
+Port: 8081
+Args:
+  Key: a; Value: b
+  Key: c; Value: d
+
+Scheme: https://
+Host: yandex.com
+Args:
+  Key: a; Value: b
+  Key: c; Value: d
+
+Host: pikabu.ru
+Port: 1213
+
+Scheme: http://
+Host: mail112.ru
+Port: 1090
+Args:
+  Key: a; Value: %30%30%20%20маамывы213141414ssd
+  Key: ggg; Value: ваыаыва
+
+Host: tsconsulting.com
+Port: 9090909
+
